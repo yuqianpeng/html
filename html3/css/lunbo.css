@@ -1,0 +1,130 @@
+
+.title00{
+	height: 50px;
+	color: #ffffff;
+	background: rgba(0,0,0,0.5);
+	line-height: 50px;
+	font-size: 16px;
+	transform: translateY(-100px);
+	text-align: center;
+}
+.lunleft {
+	width: 30px;
+	height: 50px;
+	background: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	left: 0px;
+	top: calc(50% - 25px);
+	color: white;
+	line-height: 50px;
+	text-align: center;
+	font-size: 25px;
+}
+
+.lunright {
+	width: 30px;
+	height: 50px;
+	background: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	right: 0px;
+	top: calc(50% - 25px);
+	color: white;
+	line-height: 50px;
+	text-align: center;
+	font-size: 25px;
+}
+
+.dots {
+	width: 190px;
+	height: 40px;
+	background: rgba(0, 0, 0, 0.2);
+	position: absolute;
+	bottom: 10px;
+	left: calc(50% - 80px);
+	border-radius: 5px;
+}
+
+.dots div {
+	float: left;
+	width: 10px;
+	height: 10px;
+	background: white;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.dotSelected {
+	background: hotpink !important;
+}
+
+.lunboimg2{
+	width: 1200px;
+	height: 450px;
+	position: relative;
+
+}
+
+.bottom-img{
+	width: 1200px;
+	height: 450px;
+    position: absolute;
+    left: 0;
+    top: 0;
+	overflow: hidden;
+}
+
+.lunleft1 {
+	width: 30px;
+	height: 50px;
+	background: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	left: 0px;
+	top: calc(50% - 25px);
+	color: white;
+	line-height: 50px;
+	text-align: center;
+	font-size: 25px;
+	opacity: 0;
+}
+
+.lunright1 {
+	width: 30px;
+	height: 50px;
+	background: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	right: 0px;
+	top: calc(50% - 25px);
+	color: white;
+	line-height: 50px;
+	text-align: center;
+	font-size: 25px;
+	opacity: 0;
+}
+.dots1-div{
+	width: 1200px;
+	height: auto;
+}
+.dots1 {
+	width: 120px;
+	height: 30px;
+	background: rgba(0, 0, 0, 0.2);
+	position: absolute;
+	left: 550px;
+	bottom: 0px;
+	border-radius: 5px;
+}
+
+.dots1 div {
+
+	float: left;
+	width: 10px;
+	height: 10px;
+	background: white;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.dotSelected1 {
+	background: hotpink !important;
+}
+

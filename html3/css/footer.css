@@ -1,0 +1,24 @@
+.footer {
+  width: 100%;
+  background-color: #333;
+}
+.footer .footer-inner {
+  width: 1200px;
+  margin: 0 auto;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+}
+.footer .footer-inner .links {
+  line-height: 44px;
+}
+.footer .footer-inner .footer-item {
+  color: #fff;
+  font-size: 14px;
+}
+.footer .footer-inner .footer-item .link {
+  color: #fff;
+}
+.footer .footer-inner .footer-item.line {
+  padding: 0 20px;
+}
